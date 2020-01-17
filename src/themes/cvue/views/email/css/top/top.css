@@ -1,0 +1,92 @@
+body,
+div,
+span,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+a,
+big,
+em,
+font,
+img,
+strong,
+tt,
+b,
+u,
+i,
+center,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td {
+	padding: 0;
+	margin: 0;
+}
+
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+fieldset,
+img {
+	border: 0;
+}
+
+button,
+input,
+select,
+textarea {
+	font-size: 12px;
+}
+
+ol,
+ul,
+li {
+	list-style: none;
+}
+
+li {
+	vertical-align: text-top;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-size: 100%;
+	font-weight:normal;
+}
+a{text-decoration:none;}
+input::-webkit-input-placeholder{color:#fff;}
+input::-moz-placeholder{color:#fff;}
+input:-moz-placeholder{color:#fff;}
+input::-ms-input-placeholder{color:#fff;}
+html,body{box-shadow:0 2px 5px #e4e4e4;}
+.logo{ font-size:18px; color:#5175ef;float:left; margin-left:31px; line-height:50px;}
+.out{ width:21px; height:21px; float:right; margin:15px 20px 0 0;}
+.out_ry{ float:right; margin:7px 15px 0 0;}
+.out_ry img{ width:34px; height:34px; border-radius:34px; float:left; margin-right:10px;}
+.out_ry span{font-size:14px; color:#222; float:right; margin-top:10px;}

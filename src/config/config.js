@@ -1,0 +1,41 @@
+// export const baseUrl = 'http://api-schoolmanage.xueerqin.net'
+// export const baseUrl2 = 'http://public-api.xueerqin.net'
+// export const emailUrl = 'http://api-oa-email.xueerqin.net'
+// export const socketUrl = ''
+// export const noticeUrl = 'http://api-notice.xueerqin.net'
+
+// export const oaForm = 'http://api-oa-form.xueerqin.net'
+// export const oaDept = 'http://api-oa-dept.xueerqin.net'
+
+// export const personFileUrl = 'http://api-oa-personalfile.xueerqin.net'
+// export const publicFileUrl = 'http://api-oa-publicfile.xueerqin.net'
+// export const workLogUrl = 'http://api-oa-worklog.xueerqin.net'
+// export const uploadUrl = 'http://public-api.xueerqin.net/api/File/UploadFileV2'
+// export const noteUrl = 'http://api-oa-note.xueerqin.net'
+// export const payrollUrl = 'http://api-oa-salary.xueerqin.net'
+// export const addressBookUrl = 'http://api-oa-addressbook.xueerqin.net'
+// export const scheduleUrl = 'http://api-oa-schedule.xueerqin.net'
+// export const workFlowUrl = 'http://api-oa-flow.xueerqin.net'
+// export const processCenterUrl = 'http://api-oa-flow.xueerqin.net'
+
+
+export const baseUrl = 'http://srv.xueerqin.net/api-schoolmanage'
+export const baseUrl2 = 'http://srv.xueerqin.net/public-api'
+export const emailUrl = 'http://srv.xueerqin.net/api-oa-email'
+export const socketUrl = ''
+export const noticeUrl = 'http://srv.xueerqin.net/api-notice'
+export const oaForm = 'http://srv.xueerqin.net/api-oa-form'
+export const oaDept = 'http://srv.xueerqin.net/api-oa-dept'
+export const uploadUrl = 'http://srv.xueerqin.net/public-api/api/File/UploadFileV2'
+export const noteUrl = 'http://srv.xueerqin.net/api-oa-note'
+export const payrollUrl = 'http://srv.xueerqin.net/api-oa-salary'
+export const workFlowUrl = 'http://srv.xueerqin.net/api-oa-flow'
+export const processCenterUrl = 'http://srv.xueerqin.net/api-oa-flow'
+
+
+
+export const scheduleUrl = 'http://api-oa-schedule.xueerqin.net'
+export const workLogUrl = 'http://api-oa-worklog.xueerqin.net'
+export const addressBookUrl = 'http://api-oa-addressbook.xueerqin.net'
+export const personFileUrl = 'http://api-oa-personalfile.xueerqin.net'
+export const publicFileUrl = 'http://api-oa-publicfile.xueerqin.net'
