@@ -18,7 +18,7 @@
     "element-ui": "^2.4.11",
     "jsplumb": "^2.9.2",
     "fullcalendar": "^3.10.1",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "lodash": "^4.17.11",
     "lodash.clonedeep": "^4.5.0",
     "moment": "^2.24.0",
